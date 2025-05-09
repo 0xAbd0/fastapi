@@ -117,7 +117,7 @@ docker scout quickview fastapi_app
 
 Make sure to install [Trivy](https://github.com/aquasecurity/trivy) or [Docker Scout](https://docs.docker.com/scout/).
 
-# Attached trivy scan results in json format
+## Attached trivy scan results in json format
 
 ### Recommendation
 If you want to stay current and minimize image vulnerabilities, update your image tags to:
